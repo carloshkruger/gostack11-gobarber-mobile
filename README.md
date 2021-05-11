@@ -1,5 +1,7 @@
 # GoBarber - Mobile
 
+Versão mobile da aplicação para agendamentos em barbearia.
+
 # Funcionalidades
 - Criação do usuário
 - Login
