@@ -1,13 +1,14 @@
 # GoBarber - Mobile
 
-Versão mobile da aplicação para agendamentos em barbearia.
+Mobile version of an app for barbershop appointments.
 
-# Funcionalidades
-- Criação do usuário
+# Functionalities
+- Create users
 - Login
-- Criação de agendamento
+- Create appointments
 
-# Tecnologias
+# Tech stack
+- React Native
 - TypeScript
 - Jest
 - Axios
